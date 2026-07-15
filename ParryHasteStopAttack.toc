@@ -1,0 +1,7 @@
+## Interface: 30300
+## Title: Parry Haste Stop Attack
+## Notes: Scans macros and (un)comments commands that end with #phsa.
+## Author: Nerestaren
+## Version: 0.0.1
+
+ParryHasteStopAttack.lua
